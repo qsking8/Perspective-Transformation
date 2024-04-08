@@ -2,7 +2,7 @@
 在应用中，需要用到OpenCV的两个函数getPerspectiveTransform()和warpPerspective()两个函数。
 
 实例:
-![image](https://github.com/qsking8/Perspective-Transformation/main/demo.gif)
+![image](https://github.com/qsking8/Perspective-Transformation/demo.gif)
 
 ```c++
 Mat getPerspectiveTransform(InputArray src, InputArray dst, int solveMethod = DECOMP_LU)
