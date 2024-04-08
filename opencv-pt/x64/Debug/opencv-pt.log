@@ -1,0 +1,73 @@
+﻿  pt.cpp
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(30,33): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(30,33): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(30,33): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(30,33): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(30,33): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(30,60): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(30,60): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(30,60): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(30,60): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(30,60): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(67,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(94,33): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(94,33): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(94,33): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(94,33): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(94,33): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(95,46): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(95,46): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(95,46): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(95,46): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(95,46): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(95,33): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(95,33): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(95,33): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(95,33): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(95,33): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(96,36): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(96,36): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(96,36): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(96,36): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(96,36): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(100,47): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(100,47): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(100,47): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(100,47): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(100,47): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(100,34): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(100,34): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(100,34): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(100,34): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(100,34): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(101,61): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(101,61): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(101,61): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(101,61): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(101,61): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(101,39): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(101,39): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(101,39): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(101,39): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(101,39): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(102,66): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(102,66): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(102,66): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(102,66): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(102,66): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(102,39): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(102,39): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(102,39): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(102,39): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(102,39): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(103,52): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(103,52): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(103,52): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(103,52): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(103,52): warning C4244:         ]
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(103,34): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(103,34): warning C4244:         with
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(103,34): warning C4244:         [
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(103,34): warning C4244:             _Tp=float
+C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\pt.cpp(103,34): warning C4244:         ]
+  opencv-pt.vcxproj -> C:\Users\65349\Desktop\Perspective Transformation\opencv-pt\x64\Debug\opencv-pt.exe
