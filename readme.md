@@ -1,8 +1,8 @@
 # 透视变换（Perspective Transformation）
 在应用中，需要用到OpenCV的两个函数getPerspectiveTransform()和warpPerspective()两个函数。
 
-实例:
-![image](https://github.com/qsking8/Perspective-Transformation/blob/main/demo.gif)
+<img src="https://github.com/qsking8/Perspective-Transformation/blob/main/demo.gif" width="500" height="auto">
+
 
 
 ```c++
